@@ -5,9 +5,10 @@ This is an API for a social network web application where users can share their 
 
 ## Installation
 1. Node.js
-2. NPM
 3. MongoDB
 4. Insomnia for testing
+
+   'npm i' to get started!
 
 ## Contributing
 Big thanks to my tutor, Andres Jiminez, for helping me debug.
